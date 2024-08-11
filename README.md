@@ -9,8 +9,8 @@ Welcome to the Mixed Reality Education App designed specifically for children! T
 
 ### App Demo
 <p align="center">
-  <a href="https://res.cloudinary.com/upwork-fp/video/upload/c_scale,w_1000,q_auto/v1711760623/profile/portfolio/1552954420764622848/khzw1oadod7y06khffsu.mp4">
-    <img src="https://img.youtube.com/vi/khzw1oadod7y06khffsu/0.jpg" alt="App Demo" width="480"/>
+  <a href="https://www.youtube.com/shorts/ossGyX8juQQ" target="_blank">
+    <img src="https://img.youtube.com/vi/ossGyX8juQQ/0.jpg" alt="App Demo" width="480"/>
   </a>
 </p>
 

@@ -1,6 +1,7 @@
 # Mixed Reality Education App for Children 📚✨
 
-![Mixed Reality Education App](https://your-image-url-here) <!-- Replace with an image of your app -->
+
+![Mixed Reality Education App](![sticky notes](https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769)
 
 ## Overview
 Welcome to the Mixed Reality Education App designed specifically for children! This fun and interactive application is built for the Meta Quest 3 platform and aims to enhance classroom activities with immersive learning experiences. Using Meta Building Blocks, students can engage in dynamic educational activities that make learning enjoyable and effective.

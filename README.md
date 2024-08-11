@@ -1,4 +1,4 @@
-# Sticky Notes - Mixed Reality Education App for Children 📚✨
+# Mixed Reality Education App for Children 📚✨
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769" alt="Mixed Reality Education App" width="400"/>
@@ -6,6 +6,13 @@
 
 ## Overview
 Welcome to the Mixed Reality Education App designed specifically for children! This fun and interactive application is built for the Meta Quest 3 platform and aims to enhance classroom activities with immersive learning experiences. Using Meta Building Blocks, students can engage in dynamic educational activities that make learning enjoyable and effective.
+
+### App Demo
+<p align="center">
+  <a href="https://res.cloudinary.com/upwork-fp/video/upload/c_scale,w_1000,q_auto/v1711760623/profile/portfolio/1552954420764622848/khzw1oadod7y06khffsu.mp4">
+    <img src="https://img.youtube.com/vi/khzw1oadod7y06khffsu/0.jpg" alt="App Demo" width="480"/>
+  </a>
+</p>
 
 ## Key Features
 

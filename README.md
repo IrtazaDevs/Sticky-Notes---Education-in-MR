@@ -1,7 +1,7 @@
 # Mixed Reality Education App for Children 📚✨
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769" alt="Mixed Reality Education App" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769" alt="Mixed Reality Education App" width="300"/>
 </p>
 
 ## Overview
@@ -9,9 +9,7 @@ Welcome to the Mixed Reality Education App designed specifically for children! T
 
 ### App Demo
 <p align="center">
-  <a href="https://www.youtube.com/shorts/ossGyX8juQQ" target="_blank">
-    <img src="https://img.youtube.com/vi/ossGyX8juQQ/0.jpg" alt="App Demo" width="480"/>
-  </a>
+  <iframe width="482" height="857" src="https://www.youtube.com/embed/ossGyX8juQQ" title="sticky notes - mixed reality for Oculus Quest 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## Key Features

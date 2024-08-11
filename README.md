@@ -1,7 +1,8 @@
-# Mixed Reality Education App for Children 📚✨
+# Sticky Notes - Mixed Reality Education App for Children 📚✨
 
-
-![Mixed Reality Education App](![sticky notes](https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f313a4a4-0205-434f-bec1-1169a7f88769" alt="Mixed Reality Education App" width="400"/>
+</p>
 
 ## Overview
 Welcome to the Mixed Reality Education App designed specifically for children! This fun and interactive application is built for the Meta Quest 3 platform and aims to enhance classroom activities with immersive learning experiences. Using Meta Building Blocks, students can engage in dynamic educational activities that make learning enjoyable and effective.
@@ -20,6 +21,9 @@ Welcome to the Mixed Reality Education App designed specifically for children! T
 - **Seamless Setup**: The app utilizes Meta Building Blocks to create an intuitive and responsive environment.
 - **Customizable**: Teachers can easily customize activities and note categories to fit their lesson plans.
 
+## Technology
+The app was built using the [Meta XR All-in-One SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657), available on the Unity Asset Store. This SDK provides comprehensive tools and features for developing mixed reality applications on Meta platforms.
+
 ## How It Works
 1. **Setup**: Launch the app on the Meta Quest 3 and navigate to the classroom scene.
 2. **Interact**: Use hand gestures to manipulate sticky notes, resizing them and organizing them into categories.
@@ -29,3 +33,7 @@ Welcome to the Mixed Reality Education App designed specifically for children! T
 - **Enhanced Engagement**: Makes learning more interactive and enjoyable for children.
 - **Skill Development**: Promotes organizational skills and hands-on learning.
 - **Customizable**: Adapts to different educational needs and classroom activities.
+
+---
+
+For more information or to provide feedback, please reach out to us at [irtazaumer1@gmail.com](mailto:irtazaumer1@gmail.com).
